@@ -8,6 +8,7 @@
 
 body {
     width: 100%;
+    
 }
 
 header {
@@ -110,14 +111,10 @@ section p{
     justify-content: flex-end;
     align-items: center;
     width: 60%;
-    border: 15px;
     font-size: 20px;
     color: #02075d;
     margin-left: 50px;
 }
-
-
-
 
 footer {
     background: #fce138;
