@@ -94,27 +94,25 @@ section {
     padding: 50px;
 }
 section .main_work {
-   width: 100%;
+   width: 30%;
 }
 
 .box {
-    
-    float: right;
-    width: 550px;
-    margin-left: 50px;
-    margin-top: 20px;
-    padding: 100px;
-    border: 1px solid #02075d;
+    width: 474px;
+    margin-left: 10px;
+    margin-top: 18px;
+    padding: 96px;
+    border: 2px solid #02075d;
     background-color: #fce138;
 }
 
 section .main_contactMe {
-    width: 25%;
+    width: 33%;
     display: flex;
 }
 
 section .first_div {
-    width: 100%;
+    width: 79%;
     display: flex;
     justify-content: flex-end;
 }
@@ -129,17 +127,17 @@ section h2{
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    width: 20%;
+    width: 25%;
     color: #02075d;
     font-size: 36px;
-    padding-right: 10px;
+    padding-right: 20px;
     border-right: 4px solid #02075d;
 }
 section p{
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    width: 60%;
+    width: 100%;
     font-size: 20px;
     color: #02075d;
     margin-left: 50px;
