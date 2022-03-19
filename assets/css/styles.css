@@ -8,7 +8,6 @@
 
 body {
     width: 100%;
-    
 }
 
 header {
@@ -28,7 +27,6 @@ header h1 {
     margin: 0px;
     width: 30%;
     background-color: #fce138;
-    
 }
   
 header h1 a {
@@ -95,6 +93,37 @@ section {
     background-color: #fce138;
     padding: 50px;
 }
+section .main_work {
+   width: 100%;
+}
+
+.box {
+    
+    float: right;
+    width: 550px;
+    margin-left: 50px;
+    margin-top: 20px;
+    padding: 100px;
+    border: 1px solid #02075d;
+    background-color: #fce138;
+}
+
+section .main_contactMe {
+    width: 25%;
+    display: flex;
+}
+
+section .first_div {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+section .second_div {
+    width: 100%;
+    display: flex;
+    
+}
 
 section h2{
     display: flex;
@@ -120,13 +149,12 @@ footer {
     background: #fce138;
     color: #02075d;
     width: 100%;
-    padding: 10px 10px;
+    padding: 0px 0px;
 }
 
 footer h3{
     color: #02075d;
     font-size: 20px;
 }
-
 
 
