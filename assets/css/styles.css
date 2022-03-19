@@ -119,9 +119,9 @@ section .main_work {
 
 .box1 img{
 
-    width: 200px;
+    width: 400px;
     
-    margin-left: 50px;
+    margin-left: 100px;
     
     margin-top: 20px;
     
@@ -134,23 +134,9 @@ section .main_work {
 
 .box2 img{
 
-    width: 200px;
+    width: 400px;
     
-    margin-left: 50px;
-    
-    margin-top: 20px;
-    
-    border: 1px solid #02075d;
-    
-    border-color: #fce138;
-    
-    }
-    
-    .box3 img{
-    
-    width: 200px;
-    
-    margin-left: 50px;
+    margin-left: 100px;
     
     margin-top: 20px;
     
@@ -160,11 +146,25 @@ section .main_work {
     
     }
     
-    .box4 img{
+.box3 img{
     
-    width: 200px;
+    width: 400px;
     
-    margin-left: 50px;
+    margin-left: 100px;
+    
+    margin-top: 20px;
+    
+    border: 1px solid #02075d;
+    
+    border-color: #fce138;
+    
+    }
+    
+.box4 img{
+    
+    width: 340px;
+    
+    margin-left: 100px;
     
     margin-top: 20px;
     
