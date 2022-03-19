@@ -107,72 +107,39 @@ section .main_work {
     row-gap: 20px;
 }
 
-/* .box {
-    
-    width: 477px;
-    margin-left: 50px;
-    margin-top: 20px;
-    padding: 100px;
-    border: 1px solid #02075d;
-    background-color: #fce138;
-} */
 
-.box1 img{
-
+.box1 img {
     width: 400px;
-    
     margin-left: 100px;
-    
     margin-top: 20px;
-    
     border: 1px solid #02075d;
-    
     border-color: #fce138;
-    
-    }
+}
     
 
 .box2 img{
-
     width: 400px;
-    
     margin-left: 100px;
-    
     margin-top: 20px;
-    
     border: 1px solid #02075d;
-    
     border-color: #fce138;
-    
-    }
+}
     
 .box3 img{
-    
     width: 400px;
-    
     margin-left: 100px;
-    
     margin-top: 20px;
-    
     border: 1px solid #02075d;
-    
     border-color: #fce138;
-    
-    }
+}
     
 .box4 img{
-    
     width: 340px;
-    
     margin-left: 100px;
-    
     margin-top: 20px;
-    
     border: 1px solid #02075d;
-    
     border-color: #fce138;
-    
-    }
+}
 
 section .main_contactMe {
     width: 25%;
@@ -192,19 +159,12 @@ section .second_div {
 
 section h2{
     display: flex;
-
     justify-content: flex-end;
-
     align-items: center;
-
     width: 20%;
-
     color: #02075d;
-
     font-size: 36px;
-
     padding-right: 10px;
-
     border-right: 4px solid #02075d;
 }
 

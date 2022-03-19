@@ -1,22 +1,23 @@
 # Erik Williams: Portfolio.
+
 ## Purpose
-A marketing agency by the name of "HORISEON" requires website accessibility optimiaztion. The objective was to refactor the existing code and modify the agencies code to meet accessibility requirements. Changes to both HTML and CSS have been made.  
+This portfolio will be used for future projects that I will create. Current included, are projects that i have completed or in the process of completeing. Updates for this portfolio will include photos, code and links to documentation.
 
 ## Built With
 * HTML
 * CSS
 
 ## Website
-https://github.com/ErikWilliams80/Horiseon-Website-Otimization.git
+https://github.com/EPW80/portfolio.git
 
 ## Deployment
-https://erikwilliams80.github.io/Horiseon-Website-Otimization/
+https://epw80.github.io/portfolio/
 
 ## Screenshot
 
-![Horiseon_Optimization](/assets/images/horiseonFinalShot.jpeg)
+
 
 ## Contribution
-Made with ❤️ by [Erik Williams]
+Crafted by [Erik Williams]
 
 ### ©️2022 Erik Williams
