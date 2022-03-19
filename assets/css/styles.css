@@ -40,7 +40,7 @@ header h1 a:hover{
 }
 
 header nav {
-   width: 60%;
+   width: 90%;
    display: flex; 
    justify-content: flex-end;
    padding: 10px;
@@ -93,26 +93,94 @@ section {
     background-color: #fce138;
     padding: 50px;
 }
+
 section .main_work {
-   width: 30%;
+   /* width: 30%; */
+   padding-left: 265px;
+   
 }
 
-.box {
-    width: 474px;
-    margin-left: 10px;
-    margin-top: 18px;
-    padding: 96px;
-    border: 2px solid #02075d;
-    background-color: #fce138;
+.container{
+    display: grid;
+    grid-template-columns: auto auto;
+    place-items: center;
+    row-gap: 20px;
 }
+
+/* .box {
+    
+    width: 477px;
+    margin-left: 50px;
+    margin-top: 20px;
+    padding: 100px;
+    border: 1px solid #02075d;
+    background-color: #fce138;
+} */
+
+.box1 img{
+
+    width: 200px;
+    
+    margin-left: 50px;
+    
+    margin-top: 20px;
+    
+    border: 1px solid #02075d;
+    
+    border-color: #fce138;
+    
+    }
+    
+
+.box2 img{
+
+    width: 200px;
+    
+    margin-left: 50px;
+    
+    margin-top: 20px;
+    
+    border: 1px solid #02075d;
+    
+    border-color: #fce138;
+    
+    }
+    
+    .box3 img{
+    
+    width: 200px;
+    
+    margin-left: 50px;
+    
+    margin-top: 20px;
+    
+    border: 1px solid #02075d;
+    
+    border-color: #fce138;
+    
+    }
+    
+    .box4 img{
+    
+    width: 200px;
+    
+    margin-left: 50px;
+    
+    margin-top: 20px;
+    
+    border: 1px solid #02075d;
+    
+    border-color: #fce138;
+    
+    }
 
 section .main_contactMe {
-    width: 33%;
+    width: 25%;
     display: flex;
 }
 
 section .first_div {
-    width: 79%;
+    width: 100%;
     display: flex;
     justify-content: flex-end;
 }
@@ -120,24 +188,32 @@ section .first_div {
 section .second_div {
     width: 100%;
     display: flex;
-    
 }
 
 section h2{
     display: flex;
+
     justify-content: flex-end;
+
     align-items: center;
-    width: 25%;
+
+    width: 20%;
+
     color: #02075d;
+
     font-size: 36px;
-    padding-right: 20px;
+
+    padding-right: 10px;
+
     border-right: 4px solid #02075d;
 }
+
 section p{
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    width: 100%;
+    /* width: 100%; */
+    width: 60%;
     font-size: 20px;
     color: #02075d;
     margin-left: 50px;
