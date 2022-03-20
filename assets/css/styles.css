@@ -1,4 +1,4 @@
-/* universal */
+/* Universal */
 * {
     padding: 0;
     margin: 0; 
@@ -7,12 +7,12 @@
     transition: 0.5s;
 }
 
-/* body formatting */
+/* Body formatting */
 body {
     width: 100%;
 }
 
-/* header styling */
+/* Header styling */
 header {
     width: 100%;
     padding: 20px 35px;
@@ -70,7 +70,7 @@ header nav ul li a:hover {
     color: #fce138;
 }
 
-/* hero section styling */
+/* Hero section styling */
 .hero {
     width: 100%;
     height: 200px;
@@ -91,7 +91,7 @@ header nav ul li a:hover {
     border-radius: 0px;
 }
 
-/* section styling */
+/* Section styling */
 section {
     width: 100%;
     display: flex;
@@ -103,48 +103,6 @@ section .main_work {
    /* width: 30%; */
    padding-left: 265px;
    
-}
-
-/* overall container styling */
-.container{
-    display: grid;
-    grid-template-columns: auto auto;
-    place-items: center;
-    row-gap: 20px;
-}
-
-/* box formatting */
-.box1 img {
-    width: 400px;
-    margin-left: 100px;
-    margin-top: 20px;
-    border: 5px solid #02075d;
-    border-color: #02075d;
-}
-    
-
-.box2 img{
-    width: 400px;
-    margin-left: 100px;
-    margin-top: 20px;
-    border: 5px solid #02075d;
-    border-color: #02075d;
-}
-    
-.box3 img{
-    width: 400px;
-    margin-left: 100px;
-    margin-top: 20px;
-    border: 5px solid #02075d;
-    border-color: #02075d;
-}
-    
-.box4 img{
-    width: 340px;
-    margin-left: 100px;
-    margin-top: 20px;
-    border: 5px solid #02075d;
-    border-color: #02075d;
 }
 
 section .main_contactMe {
@@ -185,7 +143,49 @@ section p{
     margin-left: 50px;
 }
 
-/* footer styling */
+/* Overall container styling */
+.container{
+    display: grid;
+    grid-template-columns: auto auto;
+    place-items: center;
+    row-gap: 20px;
+}
+
+/* Box formatting */
+.box1 img {
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 20px;
+    border: 5px solid #02075d;
+    border-color: #02075d;
+}
+    
+
+.box2 img{
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 20px;
+    border: 5px solid #02075d;
+    border-color: #02075d;
+}
+    
+.box3 img{
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 20px;
+    border: 5px solid #02075d;
+    border-color: #02075d;
+}
+    
+.box4 img{
+    width: 340px;
+    margin-left: 100px;
+    margin-top: 20px;
+    border: 5px solid #02075d;
+    border-color: #02075d;
+}
+
+/* Footer styling */
 footer {
     background: #fce138;
     color: #02075d;
