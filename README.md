@@ -18,7 +18,7 @@ https://epw80.github.io/portfolio/
 ![Portfolio: Erik Williams](/assets/images/screenShot1.png)
 ![Portfolio: Erik Williams](/assets/images/screenShot2.png)
 
-## Contribution
+## Contribution:
 Crafted by [Erik Williams]
 
 ### ©️2022 Erik Williams
