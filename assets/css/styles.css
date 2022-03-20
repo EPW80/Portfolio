@@ -1,3 +1,4 @@
+/* universal */
 * {
     padding: 0;
     margin: 0; 
@@ -6,10 +7,12 @@
     transition: 0.5s;
 }
 
+/* body formatting */
 body {
     width: 100%;
 }
 
+/* header styling */
 header {
     width: 100%;
     padding: 20px 35px;
@@ -67,6 +70,7 @@ header nav ul li a:hover {
     color: #fce138;
 }
 
+/* hero section styling */
 .hero {
     width: 100%;
     height: 200px;
@@ -87,6 +91,7 @@ header nav ul li a:hover {
     border-radius: 0px;
 }
 
+/* section styling */
 section {
     width: 100%;
     display: flex;
@@ -100,6 +105,7 @@ section .main_work {
    
 }
 
+/* overall container styling */
 .container{
     display: grid;
     grid-template-columns: auto auto;
@@ -107,7 +113,7 @@ section .main_work {
     row-gap: 20px;
 }
 
-
+/* box formatting */
 .box1 img {
     width: 400px;
     margin-left: 100px;
@@ -179,6 +185,7 @@ section p{
     margin-left: 50px;
 }
 
+/* footer styling */
 footer {
     background: #fce138;
     color: #02075d;

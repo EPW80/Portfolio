@@ -1,7 +1,7 @@
 # Erik Williams: Portfolio.
 
 ## Purpose
-This portfolio will be used for future projects that I will create. Current included, are projects that i have completed or in the process of completeing. Updates for this portfolio will include photos, code and links to documentation.
+This portfolio will be used for future projects that I will create. Current included, are projects that I have completed or in the process of completeing. Updates for this portfolio will include photos, code and links to documentation.
 
 ## Built With
 * HTML
