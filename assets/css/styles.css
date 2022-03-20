@@ -112,8 +112,8 @@ section .main_work {
     width: 400px;
     margin-left: 100px;
     margin-top: 20px;
-    border: 1px solid #02075d;
-    border-color: #fce138;
+    border: 5px solid #02075d;
+    border-color: #02075d;
 }
     
 
@@ -122,23 +122,23 @@ section .main_work {
     margin-left: 100px;
     margin-top: 20px;
     border: 5px solid #02075d;
-    border-color: #fce138;
+    border-color: #02075d;
 }
     
 .box3 img{
     width: 400px;
     margin-left: 100px;
     margin-top: 20px;
-    border: 1px solid #02075d;
-    border-color: #fce138;
+    border: 5px solid #02075d;
+    border-color: #02075d;
 }
     
 .box4 img{
     width: 340px;
     margin-left: 100px;
     margin-top: 20px;
-    border: 1px solid #02075d;
-    border-color: #fce138;
+    border: 5px solid #02075d;
+    border-color: #02075d;
 }
 
 section .main_contactMe {
