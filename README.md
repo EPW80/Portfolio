@@ -1,7 +1,7 @@
-# Erik Williams: Portfolio.
+# Erik Parra Williams: Portfolio.
 
 ## Purpose
-This portfolio will be used for future projects that I will create. Currenty included are projects that I have completed or in the process of completeing. Updates for this portfolio will include photos, code and links to documentation. A great portfolio can attract employers to your style of development and possibly lead to future employment.
+This portfolio will be used for future projects that I will create. Currenty included are projects that I have completed or in the process of completing. Updates for this portfolio will include photos, code and links to documentation. A great portfolio can attract employers to my style of development and possibly lead to future employment.
 
 ## Built With
 * HTML
@@ -19,6 +19,6 @@ https://epw80.github.io/portfolio/
 ![Portfolio: Erik Williams](/assets/images/screenShot2.png)
 
 ## Contribution:
-Crafted by [Erik Williams]
+Erik Williams
 
 ### ©️2022 EPW
