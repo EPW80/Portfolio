@@ -1,106 +1,241 @@
-<!DOCTYPE html> <!-- HTML declaration-->
-<html lang="en"> <!-- language -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-<!-- styles.css link and scaling -->
-<head>
-    <meta charset="UTF-8" />
-    <title>Portfolio:Erik Williams</title>
-    <link rel="stylesheet" href="./assets/css/styles.css" />
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-</head>
+    <!----------------------Title and image----------------------------->
+    <title>Erik Williams Porfolio</title>
+    <!------------------------------------------------------------------>
 
-<!-- Header formatting and links-->
-<body>
-
+    <!---------------------- CSS File ------------------------------------>
+    <link rel="stylesheet" type="text/css" href="./assets/css/styles.css" />
+    <!------------------------------------------------------------------>
+  </head>
+  <!---------------------Body Section-------------------------------------------->
+  <body>
+    <!-------------------- Header Section of Porfolio ----------------------------->
     <header>
-        <h1>
-            Erik Williams
-        </h1>
-        <nav>
-            <ul>
-                <li>
-                    <a href="#about-me">About Me</a>
-                </li>
-                <li>
-                    <a href="#work">Work</a>
-                </li>
-                <li>
-                    <a href="#contact-me">Contact Me</a>
-                </li>
-                <li>
-                    <a href="#resume">Resume</a>
-                </li>
-            </ul>
-        </nav>
+      <h1>Erik Williams</h1>
+      <nav>
+        <ul>
+          <li>
+            <a href="#about">About Me</a>
+          </li>
+          <li>
+            <a href="#work">Work</a>
+          </li>
+          <li>
+            <a href="#contact">Contact Me</a>
+          </li>
+          <li>
+            <a
+              href="https://drive.google.com/file/d/1ZzI087sXo3blGPuE6HggLtuZgo61Nn_d/view?usp=sharing"
+              target="_blank"
+              >Resume</a
+            >
+          </li>
+        </ul>
+      </nav>
     </header>
+    <!-------------------- End Header Section of Porfolio ------------------------->
 
-    <!-- Cool subtitle -->
+    <!-------------------- Hero Section of Porfolio ------------------------------->
     <section class="hero">
-        <p>Crafted By:</p>
+      <div class="sub-title">
+        <h1>Building Fun Ideas!</h1>
+      </div>
     </section>
+    <!----------------------------------------------------------------------------->
 
-    <!-- About Me section -->
-    <section id="about-me">
-        <h2>About Me</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-            ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-            laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-            voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </p>
-    </section>
-
-    <!-- Work Section -->
-    <section id="work">
-        <div class="main_work">
-            <h2>Work</h2>
+    <!----------------- Self-information Section of Porfolio ---------------------->
+    <section class="self-info">
+      <article id="about" class="container">
+        <div class="category border-right">
+          <h2>About Me</h2>
         </div>
-        <div>
-            <div class="container">
-                <a href="https://github.com/EPW80/Web-Optimization.git">
-                <div class="box1"><img src="./assets/images/pills.jpg" alt="Horiseon"></div></a>
-                <a href="https://github.com/EPW80/runBuddy.git">
-                <div class="box2"><img src="./assets/images/hero.jpg" alt="Run-Buddy"></div></a>
-                <a href="https://github.com/EPW80/robot-fight.git">
-                <div class="box3"><img src="./assets/images/robot.png" alt="Robot-Fight"></div></a>
-                <a href="https://github.com/EPW80/passwordGenerator.git">
-                <div class="box4"><img src="./assets/images/password.png" alt="Password-Generator"></div></a>
+        <div class="text-info">
+          <div class="self">
+            <img
+              src="assets/images/erik.jpg"
+              alt="Erik Williams"
+              class="imgPersonal"
+            />
+            <p>
+              Hi! I'm Erik Williams. I was born in Los Angeles Ca. . I love making music, martial arts and programming.
+
+              <br />
+              <br />
+
+              Junior Full Stack Dev in training. UCLA Coding Bootcamp. Cal State Fullerton (CS)
+            </p>
+          </div>
+        </div>
+      </article>
+
+      <article id="work" class="container">
+        <div class="category border-right">
+          <h2>Work</h2>
+        </div>
+        <div class="text-info">
+          <div class="grid-projects">
+            <div class="item large">
+              <a href="" target="_blank">
+                <!--HTTPS: -->
+                <div>
+                  <div>
+                    <h5>Collaborative Full Stack Project</h5>
+                    <p>Node.JS/MySQL/Handlebars/Express</p>
+                  </div>
+                </div>
+              </a>
             </div>
-        </div>
-    </section>
-
-    <!-- Contact Me Section -->
-    <section id="contact-me">
-        <div class="main_contactMe">
-            <div class="first_div">
-                <h2>Contact Me</h2>
+            <div class="item">
+              <a href="https://epw80.github.io/Book-Search/" target="_blank">
+                <!--https://epw80.github.io/Book-Search/-->
+                <div>
+                  <div>
+                    <h5>Book-Search</h5>
+                    <p>Collaborative Front End Project</p>
+                  </div>
+                </div>
+              </a>
             </div>
+            <div class="item">
+              <a href="https://epw80.github.io/runBuddy/" target="_blank">
+                <!--https://epw80.github.io/runBuddy/-->
+                <div>
+                  <div>
+                    <h5>Run Buddy</h5>
+                    <p>HTML/CSS</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="item">
+              <a
+                href="https://epw80.github.io/Password-Generator/"
+                target="_blank"
+              >
+                <!--https://epw80.github.io/Password-Generator/-->
+                <div>
+                  <div>
+                    <h5>Password Generator</h5>
+                    <p>Javascript/CSS</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="item">
+              <a
+                href="https://epw80.github.io/Weather-Dashboard/"
+                target="_blank"
+              >
+                <!--https://epw80.github.io/Weather-Dashboard/-->
+                <div>
+                  <div>
+                    <h5>Weather Dashboard</h5>
+                    <p>Sever API</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="item">
+              <a
+                href="https://epw80.github.io/Web-API-Quiz/"
+                target="_blank"
+              >
+                <!--https://epw80.github.io/Web-API-Quiz/-->
+                <div>
+                  <div>
+                    <h5>Web API Quiz</h5>
+                    <p>WEP API </p>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="item">
+              <a href="https://epw80.github.io/robot-fight/" target="_blank">
+                <!--https://epw80.github.io/robot-fight/-->
+                <div>
+                  <div>
+                    <h5>Robot Fight</h5>
+                    <p>Javascript</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="item">
+              <a
+                href="https://epw80.github.io/Work-Day-Scheduler/"
+                target="_blank"
+              >
+                <!--https://epw80.github.io/Work-Day-Scheduler/-->
+                <div>
+                  <div>
+                    <h5>Work Day Scheduler</h5>
+                    <p>JQuery /</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="item">
+              <a
+                href="https://github.com/EPW80/portfolio/blob/main/README.md"
+                target="_blank"
+              >
+                <!--https://github.com/EPW80/portfolio/blob/main/README.md-->
+                <div>
+                  <div>
+                    <h5>README Generator</h5>
+                    <p>Node.js</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
         </div>
-        <div class="second_div">
-            <p><u>555-555-555</u></p>
-            <p><u><a href="https://github.com/EPW80">ErikWilliams@website.com</a></u></p>
-            <p><u><a href="https://github.com/EPW80">GitHub</a></u></p>
-            <p><u><a href="mailto:erikpw009@gmail.com">E-mail</a></u></p>
+      </article>
+
+      <article id="contact" class="container">
+        <div class="category border-right">
+          <h2>Contact Me</h2>
         </div>
+        <div class="text-info">
+          <nav class="list">
+            <ul>
+              <li>
+                <a href="tel:1-323-559-1224"> 1-323-559-1224</a>
+              </li>
+              <li>
+                <a href="mailto: erikpw009@gmail.com">erikpw@gmail.com</a>
+              </li>
+              <li>
+                <a href="https://github.com/EPW80" target="_blank">GitHub</a>
+              </li>
+              <li>
+                <a href="https://twitter.com/Ew91659359" target="_blank"
+                  >Twitter</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.linkedin.com/in/erik-parra-williams-4b4531228/"
+                  target="_blank"
+                  >Linkedin</a
+                >
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </article>
     </section>
+    <!----------------------------------------------------------------------------->
+  </body>
 
-    <!-- Resume section -->
-    <section id="resume">
-        <h2>Resume</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-            labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-            laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-            voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </p>
-    </section>
-
-    <!-- footer section-->
-    <footer>
-        <h3>𝆺 Crafted by: Erik Williams 𝆺</h3>
-    </footer>
-
-</body>
-
+  <footer class="footerContainer">
+    <h3 class="text-dark">
+      &copy; <span class="year"></span> by Erik Williams 2022
+    </h3>
+  </footer>
+  <!------------------------------------------------------------------------------>
 </html>
-<!-- end -->
