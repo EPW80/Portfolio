@@ -267,7 +267,7 @@ header nav ul li a:hover {
   grid-row: span 2;
   grid-column: span 2;
   /*Image self-created */
-  background-image: url(../images/progress.png);
+  background-image: url(../images/CollabFullStack.png);
   background-attachment: unset;
   background-size: 100% 100%;
 }
