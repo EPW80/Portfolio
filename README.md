@@ -8,10 +8,10 @@ This portfolio will be used for future projects that I will create. Currenty inc
 * CSS
 
 ## Website
-https://github.com/EPW80/portfolio.git
+https://github.com/EPW80/Portfolio.git
 
 ## Deployment
-https://epw80.github.io/portfolio/
+https://epw80.github.io/Portfolio/
 
 ## Screenshot
 
