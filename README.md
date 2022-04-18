@@ -18,6 +18,12 @@ https://epw80.github.io/portfolio/
 ![Portfolio: Erik Williams](/assets/images/screenShot1.png)
 ![Portfolio: Erik Williams](/assets/images/screenShot2.png)
 
+## Test
+None
+
+## Questions
+for more information or if you have a question: email [erikpw009@gmail.com](erikpw009@gmail.com).
+
 ## Contribution:
 Erik Williams
 
