@@ -1,7 +1,7 @@
-# Erik Parra Williams: Portfolio.
+# Personal Professional Portfolio
 
 ## Purpose
-This portfolio will be used for future projects that I will create. Currenty included are projects that I have completed or in the process of completing. Updates for this portfolio will include photos, code and links to documentation. A great portfolio can attract employers to my style of development and possibly lead to future employment.
+This portfolio will be used for future projects that I will create. Currenty included are projects that I have completed or in the process of completing. Updates for this portfolio will include photos, code and links to documentation. A great portfolio can attract employers to my style of development and possibly lead to future employment. You can take the app and make your own customized portfolio.
 
 ## Built With
 * HTML
