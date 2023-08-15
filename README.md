@@ -1,21 +1,16 @@
 # Personal Professional Portfolio
 
-This is my first portfolio which I keep arounf for nostalgia. Currenty included are projects that I have completed. Updates for this portfolio will discontinue. My durrent protfolio can be located at
+This is my first portfolio which I keep around for nostalgia. I've included for you the projects that I have completed for you. Updates for this portfolio will discontinue. My current portfolio can be located at:
+[Portfolio](https://next-js-tailwind-portfolio-swart.vercel.app/)
 
-## Built With
+## Technology used
 
 - HTML
 - CSS
 
 ## Deployment
 
-https://epw80.github.io/Portfolio/
-
-## Screenshot
-
-![Portfolio: Erik Williams](/assets/images/screenShot1.png)
-![Portfolio: Erik Williams](/assets/images/screenShot2.png)
-.
+[gh-pages](https://epw80.github.io/react-portfolio-master/)
 
 ## Contribution:
 
